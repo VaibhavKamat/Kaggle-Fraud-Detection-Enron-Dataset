@@ -1,7 +1,6 @@
 # Investigating Enron dataset for detecting corporate fraud using machine learning techniques
 
-## Part Of Udacity: Intro To Machine Learning Course
-## (The final Project code is in ‘final_project’ directory under the name ‘poi_id.py’)
+### (The final Project code is in ‘final_project’ directory under the name ‘poi_id.py’)
 
 # Introduction:
 
